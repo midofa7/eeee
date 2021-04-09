@@ -1,7 +1,7 @@
 
 <template>
   <div class="app">
-  <mapage/>ù
+  <mapage/>ù8
   </div>
 </template>
 
