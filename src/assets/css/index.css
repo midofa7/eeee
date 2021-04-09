@@ -1,0 +1,109 @@
+
+.page_git {
+    padding: 23px 4%;
+}
+.page_git .blcok_recherche {
+    padding-right: 71%;
+    padding-bottom: 24px;
+}
+
+.page_git .item_repository {
+    box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 0px 0px 6px 1px rgb(193 193 193);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 20px 5%;
+    border-radius: 5px;
+}
+.page_git .blcok_recherche .input * {
+    border: #c1c1c1de solid 1px;
+    width: 100%;
+    box-shadow: 10px 10px 5px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 0px 0px 4px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    height: 29px;
+}
+.page_git .la_list_repository .itemes_repository button.Active {
+    color: rgb(255, 255, 255);
+    background-color: #458bca;
+}
+    .page_git .la_list_repository .itemes_repository button {
+    width: 99%;
+    border: none;
+    background: #fafafa;
+    height: 35px;
+    box-shadow: 0px 0px 2px 0px rgb(193 193 193);
+    /* -webkit-box-shadow: 10px 10px 5px 0px rgb(0 0 0 / 75%); */
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    font-size: 13px;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 15px;
+}
+.page_git .item_repository .tetel h3 {
+    font-size: 21px;
+    font-family: inherit;
+}
+.page_git .item_repository .select_branches select {
+    border: #c1c1c1 solid 2px;
+    background: #f9fafb;
+    padding: 1px 13px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.page_git .item_repository .select_branches select {
+    border: none;
+    background: #f9fafb;
+    padding: 1px 18px;
+    font-size: 15px;
+    font-weight: 700;
+    box-shadow: 0px 0px 6px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 0px 0px 2px 0px rgb(193 193 193);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 4px;
+}
+.page_git .item_repository .lesspush {
+    border-left: #c1c1c1 solid 1px;
+    padding-left: 3%;
+    margin-top: 29px;
+}.page_git .item_repository .lesspush .user_push h3 {
+    color: #848484;
+    font-size: 16px;
+    padding-top: 10px;
+    font-weight: 700;
+}.page_git .item_repository .lesspush .user_push img {
+    width: 99%;
+}
+.page_git .item_repository .lesspush .user_push .lalist_de_push {
+    box-shadow: 10px 10px 5px 0px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 0px 0px 1px 1px rgb(163 163 163 / 84%);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 4px;
+    margin-top: 15px;
+    margin-bottom: 13px;
+}
+
+.page_git .item_repository .lesspush .user_push .lalist_de_push .itme_push {
+    padding: 2px 12px;
+    border-bottom: #c1c1c154 solid 1px;
+}
+.page_git .item_repository .lesspush .user_push .lalist_de_push .itme_push h4 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.page_git .item_repository .lesspush .user_push img {
+    width: 80%;
+    margin-left: 9%;
+    border-radius: 53px;
+}
+.page_git .item_repository .lesspush .user_push .lalist_de_push .itme_push .name {
+    font-size: 15px;
+    font-weight: 800;
+    padding-top: 13px;
+}
+.page_git .item_repository .lesspush .user_push .lalist_de_push .itme_push .text_commit {
+    padding-top: 15px;
+    font-size: 12px;
+    color: #515151;
+    font-weight: 600;
+}
