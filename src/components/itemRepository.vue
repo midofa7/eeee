@@ -7,8 +7,8 @@
                             </div>
                             <div class="select_branches">
                                 <select>
-                                    <option>xsss</option>
-                                    <option>xsss</option>
+                                    <option>x^mkisss</option>
+                                    <option>xssls</option>
                                     <option>xsss</option>
                                 </select>
                             </div>
